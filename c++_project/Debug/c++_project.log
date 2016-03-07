@@ -1,4 +1,7 @@
 ﻿  test.cpp
-c:\users\wangduo\desktop\huawei\c++_project\c++_project\test.cpp(16): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\wangduo\desktop\huawei\c++_project\c++_project\test.cpp(17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\wangduo\desktop\huawei\c++_project\c++_project\test.cpp(26): warning C4477: “sscanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“const char *”
+c:\users\wangduo\desktop\huawei\c++_project\c++_project\test.cpp(26): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
   c++_project.vcxproj -> C:\Users\wangduo\Desktop\huawei\c++_project\Debug\c++_project.exe
